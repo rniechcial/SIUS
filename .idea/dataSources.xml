@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails meal_plan: test" uuid="90f63c0a-1e3b-424e-a734-48b41ec7b388">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:meal_plan_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails meal_plan: production" uuid="264f6cb4-576f-4cf0-9019-5bd8fd9293c5">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:meal_plan_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails meal_plan: development" uuid="4c77c2ce-f39e-4058-a512-90531981b708">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:meal_plan_development</jdbc-url>
+    </data-source>
+  </component>
+</project>

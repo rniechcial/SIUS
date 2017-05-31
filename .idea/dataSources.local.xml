@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails meal_plan: test" uuid="90f63c0a-1e3b-424e-a734-48b41ec7b388">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails meal_plan: production" uuid="264f6cb4-576f-4cf0-9019-5bd8fd9293c5">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>meal_plan</user-name>
+    </data-source>
+    <data-source name="Rails meal_plan: development" uuid="4c77c2ce-f39e-4058-a512-90531981b708">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>

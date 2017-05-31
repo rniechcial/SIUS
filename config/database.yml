@@ -1,0 +1,31 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+
+
+  username: root 
+  password: root
+
+
+
+
+
+
+
+
+
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+
+development:
+  <<: *default
+  database: meal_plan_development
+
+test:
+  <<: *default
+  database: meal_plan_test
+
+production:
+  <<: *default
+#  host: <%= ENV["POSTGRES_HOST"] %>
+  database: meal_plan_production
